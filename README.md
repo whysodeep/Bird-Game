@@ -10,7 +10,7 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Installation is easy eithe fork this project or download the files put them in a folder and run Index.html you'll be good to go !!</p>
+<p>1. Installation is easy either fork this project or download the files put them in a folder and run Index.html you'll be good to go !!</p>
 
   
   
